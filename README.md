@@ -18,4 +18,5 @@ The projects included here include working code and some experimental code. Some
 6. Web Page with Flask
 > This project requires that you install the flask module. After that, when you run it, it will create a web server on your machine and host your Python and HTML files in dynamic web pages.
 7. Data Analytics with Jupyter and Pandas
-> COMING SOON
+
+> Instead of "COMING SOON", it is now here. Ta da!
